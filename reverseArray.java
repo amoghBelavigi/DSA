@@ -1,3 +1,6 @@
+//to reverse the array
+//swaping the first and last elemets with the help of temp
+
 import java.util.*;
 
 class reversearray {
