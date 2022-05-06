@@ -1,3 +1,5 @@
+//to find the second maximum element in the array
+
 import java.util.*;
 
 
